@@ -8,7 +8,7 @@ class Stack
   end
 
   def remove
-    @stack.shift
+    @stack.pop
   end
 
   def show
